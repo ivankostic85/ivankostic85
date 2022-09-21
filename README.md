@@ -1,4 +1,4 @@
-## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> my name is Ivan and I'm Software Engineer.
+## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 </hr>
 
 ### 🛠 &nbsp;Tech Stack
